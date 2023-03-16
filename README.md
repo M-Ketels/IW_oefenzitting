@@ -1,3 +1,3 @@
 # IW_oefenzitting
 
-**a small edit**
+**a smalller edit**
