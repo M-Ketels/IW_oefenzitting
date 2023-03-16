@@ -9,6 +9,7 @@ public class BookTest {
 	public void testDefault() {
 		Book book = new Book("Java For Dummies (7th edition)", "Barry Burd", 2017);
 		// Book book = new Book("Karel ende Elegast", "", 1270);
+		// added commentary
 
 		assertEquals("Java For Dummies (7th edition)", book.getTitle());
 		assertEquals("Barry Burd", book.getAuthor());
